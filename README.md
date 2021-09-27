@@ -2,7 +2,7 @@
 #Ejercicio carta de restaurante con html y css
 - Página inicio
 - Página carta
-- Contacto
+- Página contacto
 
 ![image](https://user-images.githubusercontent.com/28491001/134867868-beb2acb7-1453-4528-948a-98164c045929.png)
 
