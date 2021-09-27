@@ -1,5 +1,8 @@
 # carta-restaurante-html-y-css
-#Ejercicio carta de restaurante
+#Ejercicio carta de restaurante con html y css
+- Página inicio
+- Página carta
+- Contacto
 
 ![image](https://user-images.githubusercontent.com/28491001/134867868-beb2acb7-1453-4528-948a-98164c045929.png)
 
